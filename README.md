@@ -1,3 +1,5 @@
+===Fixed and enhanced the unit test suite ;Automated creation of teams, team size management and deadline enforcement=== 
+
 Expertiza
 =========
 
